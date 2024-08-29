@@ -25,4 +25,4 @@ I tested the API using Flask and Postman to ensure everything works smoothly. Th
 } ```
 
 
-This project effectively demonstrates how to deploy a machine learning model as a web service, allowing others to make predictions using the model via an API.
+This project effectively demonstrates how to deploy a machine learning model as a web service, allowing others to make predictions using the model via an API..
