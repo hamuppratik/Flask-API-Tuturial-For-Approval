@@ -7,11 +7,11 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello_world():
-    return "<p>Hello, World!</p>"
+    return "<p>Loan Approval Testing using flask</p>"
 
 @app.route("/ping", methods=['GET'])
 def pinger():
-    return "<p>Hello i am under water!</p>"
+    return "<p>Routing works</p>"
 
 @app.route("/json", methods=['GET'])
 def json_check():
